@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+body{
+  background-image: linear-gradient(to bottom, rgb(54, 104, 58),rgb(0, 0, 0), blue);
+  height: 100vw;
+  color: rgb(250, 0, 0);
+}
+h1{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: "Rowdies", sans-serif;
+}
+.samba{
+  text-align: center;
+  border-style:double;
+  border-radius: 10px;
+  width: 400px;
+  margin: 0 auto;
+  display: block;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-family: "Rowdies", sans-serif;
+}
+input{
+  border-radius: 10px;
+  text-align: center;
+  font-size: medium;
+  width: 130px;
+  height: 40px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(51, 109, 56);
+  font-family: "Rowdies", sans-serif;
+}
+button{
+  background-color: rgb(48, 102, 53);
+  width: 80px;
+  height: 25px;
+  border-radius: 20px;
+  color: rgb(255, 255, 255);
+  font-family: "Rowdies", sans-serif;
+}
